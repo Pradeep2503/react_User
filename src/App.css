@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+#css
+{
+    background-color:aqua;
+    color: #fff;
+    max-width: 200px;
+    margin: 0 auto;
+    padding: 100px;
+    margin-top: 200px;
+    text-align: center;
+}
+
+#css1
+{
+  
+  background-color:aqua;
+  color: #fff;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 100px;
+  margin-top: 20px;
+  text-align: center;
+}
